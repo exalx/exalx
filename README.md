@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 ## Hi ^^
 
 # Well ...
-Am I lost ?
-At least
-I'm.
-new.
 Oh !! I like Daruma : ![the-famous-red-daruma-illustration-vector](https://github.com/user-attachments/assets/36c1275e-82db-41db-9663-9cd201e4e47c)
